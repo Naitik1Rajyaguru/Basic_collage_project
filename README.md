@@ -1,2 +1,4 @@
 # About
-Here you may find some of my work in different branches of this repository only.
+Here I have uploded 
+1) pdf that shows what exactly present in project.
+2) .c file that contain code of the project.
