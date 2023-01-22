@@ -1,2 +1,2 @@
-# Basic_collage_project
-This is some of the very basic thing I have done as a part of project
+# About
+Here you may find some of my work in different branches of this repository only.
