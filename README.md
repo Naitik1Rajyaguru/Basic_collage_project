@@ -1,2 +1,5 @@
 # About
-Here you may find some of my work in different branches of this repository only.
+I have uploded one document file that contain code and flow detail as code of project
+
+#project
+This project was about bank mangment, here we have performe some basic operatio related to bank account without any gui.
